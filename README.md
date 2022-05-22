@@ -1,4 +1,3 @@
 # air-quality-inquiry  
-By typing in the city name,you can get the city's air quality now,  
-including AQI,PM2.5,NO,SO2,NO2,O3,PM10.  
-Note:only Chinese cities;some cities are not included.
+Python编程与数据分析实验  
+通过输入城市名可实现天气查询功能  
